@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">Hello World</string>
+    <string name="app_name">Guess Suicune</string>
+    <string name="hello">Hello World</string>
+    <string name="helen">Γεια σου Χελεν</string>
+    <string name="harry">Xarisnik is the best</string>
+    <string name="button_1">New Game</string>
+
+
 </resources>
